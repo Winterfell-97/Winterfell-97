@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Winterfell-97
-- 👀 I’m interested in ...learning webdevelopment with skills in php js, mysql, css and html
+- 👀 I’m web developer ...learning webdevelopment with skills in php, python django,  js, mysql, css and html
 - 🌱 I’m currently learning ... php js, mysql, css and html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .email me <joshuawamalwa97@gmail.com>..
